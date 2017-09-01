@@ -1,0 +1,8 @@
+from py4jdbc import connect
+
+
+conn = connect("jdbc:redshift://logidwa.cmj8jk61oxi0.us-west-2.redshift.amazonaws.com:5439/dwa", user="integration_user",
+               password="Logitech123")
+cur = conn.cursor()
+cur.execute("select sysdate")
+
