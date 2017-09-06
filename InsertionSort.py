@@ -2,7 +2,7 @@
 #Author: Mateen SA
 #Comments: It always maintains a sorted sublist in the lower positions of the list.
             # Each new item is then “inserted” back into the previous sublist such that the sorted sublist is one item larger.
-
+#Complexity: O(n*2*2)
 
 def insertionSort(alist):
 

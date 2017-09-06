@@ -3,6 +3,7 @@
 # It compares adjacent items and exchanges those that are out of order.
 # Each pass through the list places the next largest value in its proper place.
 # In essence, each item “bubbles” up to the location where it belongs.
+#Complexity: O(n*2*2)
 
 def bubblesort(list) :
     for looper in range(len(list)-2) :

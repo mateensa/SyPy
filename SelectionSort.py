@@ -1,6 +1,7 @@
 #Name: SelectionSort
 #Author: Mateen SA
 #Comments: Its is very similar to Bubble sort except it exchanges max item to max position.
+#Complexity: O(n*2*2)
 
 def SelectionSort(alist):
 

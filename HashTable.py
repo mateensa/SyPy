@@ -1,3 +1,7 @@
+#Name: SelectionSort
+#Author: Mateen SA
+#Complexity: O(n) (mostly) if keys are not multiples of size.
+
 class HashTable:
     def __init__(self):
         self.size = 11

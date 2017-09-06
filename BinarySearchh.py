@@ -8,7 +8,7 @@
 # starting one above the middle of the list.
 # If the number is lower than the middle value, then adjust the top of the list so that you search in a smaller list
 # which has its highest position one less than the middle position.
-
+#Complexity: O(n * log n), with worst case it is O(n*2*2)
 
 
 def binarysearch(li, searchitem) :
