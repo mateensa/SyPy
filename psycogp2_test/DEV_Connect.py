@@ -7,7 +7,7 @@ class DEV_Connect():
 
     def __init__(self):
         try:
-            self._db_connection = psycopg2.connect("dbname=dwa user=integration_user host=logidwa.cmj8jk61oxi0.us-west-2.redshift.amazonaws.com password=Logitech123 port=5439")
+            self._db_connection = psycopg2.connect("dbname=dwa user=integration_user host=xxxxxxx.cmj8jk61oxi0.us-west-2.redshift.amazonaws.com password=xxxxxxxxxxx port=5439")
             print("Connected to DB Instance");
             self._db_cur = self._db_connection.cursor();
         except:
