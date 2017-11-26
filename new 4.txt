@@ -1,0 +1,195 @@
+USA,1,United States
+CHN,2,China
+JPN,3,Japan
+DEU,4,Germany
+GBR,5,United Kingdom
+FRA,6,France
+IND,7,India
+ITA,8,Italy
+BRA,9,Brazil
+CAN,10,Canada
+KOR,11,Korea
+RUS,12,Russian Federation
+ESP,13,Spain
+AUS,14,Australia
+MEX,15,Mexico
+IDN,16,Indonesia
+TUR,17,Turkey
+NLD,18,Netherlands
+CHE,19,Switzerland
+SAU,20,Saudi Arabia
+ARG,21,Argentina
+SWE,22,Sweden
+POL,23,Poland
+BEL,24,Belgium
+THA,25,Thailand
+NGA,26,Nigeria
+IRN,27,Iran
+AUT,28,Austria
+NOR,29,Norway
+ARE,30,United Arab Emirates
+EGY,31,Egypt
+HKG,32,Hong Kong SAR
+ISR,33,Israel
+DNK,34,Denmark
+PHL,35,Philippines
+SGP,36,Singapore
+MYS,37,Malaysia
+ZAF,38,South Africa
+IRL,39,Ireland
+PAK,40,Pakistan
+COL,41,Colombia
+CHL,42,Chile
+FIN,43,Finland
+BGD,44,Bangladesh
+PRT,45,Portugal
+VNM,46,Vietnam
+GRC,47,Greece
+CZE,48,Czech Republic
+PER,49,Peru
+ROU,50,Romania
+NZL,51,New Zealand
+IRQ,52,Iraq
+DZA,53,Algeria
+QAT,54,Qatar
+KAZ,55,Kazakhstan
+HUN,56,Hungary
+KWT,57,Kuwait
+MAR,58,Morocco
+ECU,59,Ecuador
+SDN,60,Sudan
+UKR,61,Ukraine
+AGO,62,Angola
+SVK,63,Slovak Republic
+CUB,64,Cuba
+LKA,65,Sri Lanka
+ETH,66,Ethiopia
+DOM,67,Dominican Republic
+KEN,68,Kenya
+GTM,69,Guatemala
+MMR,70,Myanmar
+UZB,71,Uzbekistan
+OMN,72,Oman
+LUX,73,Luxembourg
+CRI,74,Costa Rica
+PAN,75,Panama
+URY,76,Uruguay
+BGR,77,Bulgaria
+HRV,78,Croatia
+LBN,79,Lebanon
+BLR,80,Belarus
+TZA,81,Tanzania
+MAC,82,Macao SAR
+SVN,83,Slovenia
+LTU,84,Lithuania
+GHA,85,Ghana
+TUN,86,Tunisia
+JOR,87,Jordan
+AZE,88,Azerbaijan
+SRB,89,Serbia
+TKM,90,Turkmenistan
+CIV,91,Côte d'Ivoire
+COD,92,Congo
+BOL,93,Bolivia
+BHR,94,Bahrain
+LVA,95,Latvia
+PRY,96,Paraguay
+YEM,97,Yemen
+SLV,98,El Salvador
+UGA,99,Uganda
+CMR,100,Cameroon
+EST,101,Estonia
+HND,102,Honduras
+NPL,103,Nepal
+TTO,104,Trinidad and Tobago
+ISL,105,Iceland
+KHM,106,Cambodia
+CYP,107,Cyprus
+ZMB,108,Zambia
+AFG,109,Afghanistan
+PNG,110,Papua New Guinea
+BIH,111,Bosnia and Herzegovina
+ZWE,112,Zimbabwe
+LAO,113,Lao PDR
+BWA,114,Botswana
+SEN,115,Senegal
+GEO,116,Georgia
+GAB,117,Gabon
+MLI,118,Mali
+JAM,119,Jamaica
+PSE,120,West Bank and Gaza
+NIC,121,Nicaragua
+MUS,122,Mauritius
+BFA,123,Burkina Faso
+ALB,124,Albania
+BRN,125,Brunei Darussalam
+MNG,126,Mongolia
+MOZ,127,Mozambique
+MLT,128,Malta
+MKD,129,Macedonia
+ARM,130,Armenia
+NAM,131,Namibia
+GNQ,132,Equatorial Guinea
+MDG,133,Madagascar
+TCD,134,Chad
+BHS,135,Bahamas
+SSD,136,South Sudan
+BEN,137,Benin
+RWA,138,Rwanda
+HTI,139,Haiti
+COG,140,Congo
+NER,141,Niger
+IMN,142,Isle of Man
+TJK,143,Tajikistan
+MDA,144,Moldova
+LIE,145,Liechtenstein
+XKX,146,Kosovo
+KGZ,147,Kyrgyz Republic
+GIN,148,Guinea
+SOM,149,Somalia
+GUM,150,Guam
+MWI,151,Malawi
+MRT,152,Mauritania
+FJI,153,Fiji
+BRB,154,Barbados
+TGO,155,Togo
+MNE,156,Montenegro
+VIR,157,Virgin Islands (U.S.)
+SWZ,158,Swaziland
+SLE,159,Sierra Leone
+SUR,160,Suriname
+MDV,161,Maldives
+GUY,162,Guyana
+BDI,163,Burundi
+BTN,164,Bhutan
+GRL,165,Greenland
+LSO,166,Lesotho
+LBR,167,Liberia
+BLZ,168,Belize
+CAF,169,Central African Republic
+DJI,170,Djibouti
+CPV,171,Cabo Verde
+ATG,172,Antigua and Barbuda
+TLS,173,Timor-Leste
+SYC,174,Seychelles
+LCA,175,St. Lucia
+SLB,176,Solomon Islands
+GNB,177,Guinea-Bissau
+GRD,178,Grenada
+GMB,179,Gambia
+MNP,180,Northern Mariana Islands
+KNA,181,St. Kitts and Nevis
+WSM,182,Samoa
+VUT,183,Vanuatu
+VCT,184,St. Vincent and the Grenadines
+ASM,185,American Samoa
+COM,186,Comoros
+DMA,187,Dominica
+TON,188,Tonga
+STP,189,São Tomé and Principe
+FSM,190,Micronesia
+PLW,191,Palau
+MHL,192,Marshall Islands
+KIR,193,Kiribati
+NRU,194,Nauru
+TUV,195,Tuvalu
